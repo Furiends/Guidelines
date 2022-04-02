@@ -24,5 +24,6 @@
 - [Backend](https://github.com/orgs/Furiends/projects/3)  
 - [AI](https://github.com/orgs/Furiends/projects/6)  
    
-
+### User guide for GitHub
+- [Assign tasks and set milestone](https://www.youtube.com/watch?v=ukYSRu4k0gs)
 
