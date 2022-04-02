@@ -12,7 +12,7 @@
 ### Structure of each repository:
 - README.md: navigation instructions  
 - meeting notes.md: meeting notes
-- resource: a folder to share resource  
+- resource: a folder to store shared resource  
 - images: a folder to save images 
 
 ### Milestone and task status of each group:
