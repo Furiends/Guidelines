@@ -1,6 +1,6 @@
-## This repository is where we will gather guidelines for Furiends network.
+## This repository is where we will gather guidelines for Furiends network.该代码库用于存放Furiends的使用指南。
 
-### Navigate to your team:  
+### Navigate to your team 导航至你的小组:  
 - [PM](https://github.com/Furiends/PM)
 - [NPO](https://github.com/Furiends/NPO)
 - [Media](https://github.com/Furiends/Media)  
@@ -9,13 +9,13 @@
 - [Backend](https://github.com/Furiends/Backend)  
 - [AI](https://github.com/Furiends/AI)  
 
-### Structure of each repository:
-- README.md: navigation instructions  
-- meeting notes.md: meeting notes
-- resource: a folder to store shared resource  
-- images: a folder to save images 
+### Structure of each repository 小组代码库统一结构:
+- README.md: navigation instructions 导航说明
+- meeting notes.md: meeting notes 每周会议记录
+- resource: a folder to store shared resource 用于存放学习资源
+- images: a folder to save images 用于存放图片
 
-### Milestone and task status of each group:
+### Milestone and task status of each group 小组项目及进度管理页面:
 - [PM](https://github.com/orgs/Furiends/projects/8)
 - [NPO](https://github.com/orgs/Furiends/projects/7)
 - [Media](https://github.com/orgs/Furiends/projects/5)  
@@ -24,6 +24,6 @@
 - [Backend](https://github.com/orgs/Furiends/projects/3)  
 - [AI](https://github.com/orgs/Furiends/projects/6)  
    
-### User guide for GitHub
+### User guide for GitHub GitHub有用说明
 - [Assign tasks and set milestone](https://www.youtube.com/watch?v=ukYSRu4k0gs)
 
