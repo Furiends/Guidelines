@@ -1,4 +1,4 @@
-## This repository is where we will gather guidelines for Furiends network.该代码库用于存放Furiends的使用指南。
+## This repository is where we will gather guidelines for Furiends network.该代码库为Furiends的准则导览。
 
 ### Navigate to your team 导航至你的小组:  
 - [PM](https://github.com/Furiends/PM)
