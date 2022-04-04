@@ -16,7 +16,7 @@
 - resource: a folder to store shared resource 用于存放学习资源
 - images: a folder to save images 用于存放图片
 
-### Milestone and task status of each group 小组项目及进度管理页面:
+### Milestone and task status of each group 小组项目及进度管理页面（请参照UXUI页面）:
 - [PM](https://github.com/orgs/Furiends/projects/8)
 - [NPO](https://github.com/orgs/Furiends/projects/7)
 - [Media](https://github.com/orgs/Furiends/projects/5)  
