@@ -9,7 +9,7 @@
 - [Backend](https://github.com/Furiends/Backend)  
 - [AI](https://github.com/Furiends/AI) 
 
-### Structure of each repository 小组代码库统一结构（请参照AI小组代码库保持统一结构）
+### Structure of each repository 小组代码库统一结构（请参照UXUI小组代码库保持统一结构）
 - README.md: navigation instructions 导航说明
 - meeting notes.md: meeting notes 每周会议记录
 - resource: a folder to store shared resource 用于存放学习资源
