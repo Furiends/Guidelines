@@ -8,6 +8,7 @@
 - [Frontend](https://github.com/Furiends/Frontend)  
 - [Backend](https://github.com/Furiends/Backend)  
 - [AI](https://github.com/Furiends/AI) 
+- [Consultant](https://github.com/Furiends/Consultant)
 
 ### Structure of each repository 小组代码库统一结构（请参照UXUI小组代码库保持统一结构）
 - README.md: navigation instructions 导航说明
