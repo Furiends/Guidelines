@@ -24,8 +24,8 @@
 - [Backend](https://github.com/orgs/Furiends/projects/3)  
 - [AI](https://github.com/orgs/Furiends/projects/6)  
    
-### User guide for GitHub GitHub使用说明
+### User guide for GitHub 使用说明
 - Please manage your team with 'issue' operation 请用代码库中的issue功能管理任务分配: [Assign tasks and set milestone](https://www.youtube.com/watch?v=ukYSRu4k0gs)
-- Pleae synchronise your team's tasks in project webpage 请分配任务的同时同步任务至小组项目及进度管理页面： [Sync issues to project](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/tracking-work-with-project-boards/adding-issues-and-pull-requests-to-a-project-board)
-- [Markdown userguide Markdown使用指南](http://younghz.github.io/Markdown/)
+- Pleae synchronise your team's tasks in project webpage 请分配任务的同时同步任务至小组项目及进度管理页面: [Sync issues to project](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/tracking-work-with-project-boards/adding-issues-and-pull-requests-to-a-project-board)
+- [Markdown userguide 使用指南](http://younghz.github.io/Markdown/)
 
